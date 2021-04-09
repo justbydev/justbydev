@@ -11,7 +11,9 @@ Techs that I've used at least once<br>
 <img src="https://img.shields.io/badge/Django-F7FE2E?style=flat-square&logo=Django&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/HTML-FF0000?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-0431B4?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-FFBF00?style=flat-square&logo=Javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-FFBF00?style=flat-square&logo=Javascript&logoColor=white"/></a><br>
+
+[![justbydev's GitHub stats](https://github-readme-stats.vercel.app/api?username=justbydev)](https://github.com/justbydev/github-readme-stats)
 <!--
 **justbydev/justbydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
