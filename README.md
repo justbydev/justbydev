@@ -14,7 +14,7 @@ Techs that I've used at least once<br>
 <img src="https://img.shields.io/badge/JavaScript-FFBF00?style=flat-square&logo=Javascript&logoColor=white"/></a><br>
 
 [![justbydev's GitHub stats](https://github-readme-stats.vercel.app/api?username=justbydev)](https://github.com/justbydev/github-readme-stats)<br>
-## If you want to know more about me->https://github.com/justbydev/RESUME
+## If you want to know my PortFolio->https://github.com/justbydev/RESUME
 <!--
 **justbydev/justbydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
