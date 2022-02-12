@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Good day! I am WooJun Ko who is interested in Android OS development and Machine Learning from South Korea.
+Good day! I am WooJun, Android developer from South Korea.
 
 ## Tech Stack
 Techs that I've used at least once<br>
