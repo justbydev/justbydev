@@ -13,7 +13,6 @@ Techs that I've used at least once<br>
 <img src="https://img.shields.io/badge/CSS3-0431B4?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-FFBF00?style=flat-square&logo=Javascript&logoColor=white"/></a><br>
 
-[![justbydev's GitHub stats](https://github-readme-stats.vercel.app/api?username=justbydev)](https://github.com/justbydev/github-readme-stats)<br>
 ### My RESUME From 2015 To 2021
 https://github.com/justbydev/RESUME
 
